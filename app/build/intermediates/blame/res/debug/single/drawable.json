@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurants_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\restaurants_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\location_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image5.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\image5.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_orange.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\search_orange.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_icon.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\header_icon.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_item_background.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\gridview_item_background.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transfer.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\transfer.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_shadow.9.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_1.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\item_1.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\history_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_3.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\item_3.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\percentage_closed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\percentage_closed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dishes_top.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\dishes_top.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connect.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\connect.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_grey.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\search_grey.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deals_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\deals_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\chat_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\settings_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\settings_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\settings_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\help_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image5.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\image5.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\history_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\image3.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\image3.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_shadow.9.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen_background.jpg",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\splashscreen_background.jpg"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\chat_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_3.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\item_3.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\percentage.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\percentage.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\chat_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_2.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\item_2.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_5.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\item_5.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_2.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\item_2.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fixtures.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\fixtures.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image2.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\squad.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\squad.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\help_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_orange.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\search_orange.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\account_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_left_orange.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\arrow_left_orange.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image1.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\image1.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\percentage_closed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\percentage_closed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fcb.jpg",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\fcb.jpg"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_5.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\item_5.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\list_row_bg.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connect.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\connect.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\percentage.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\percentage.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\squad.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\squad.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\account_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fixtures.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\fixtures.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_left_orange.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\arrow_left_orange.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_1.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\item_1.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\places_ic_search.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deals_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\deals_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\table.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\account_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_item_background.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\gridview_item_background.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\table.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\help_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transfer.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\transfer.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_grey.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\search_grey.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\chat_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\history_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deals_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\deals_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurants_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\restaurants_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\settings_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\location_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\places_ic_search.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_selector.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\list_row_selector.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_icon.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\header_icon.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurants_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\restaurants_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_4.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\item_4.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen_background.jpg",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\splashscreen_background.jpg"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\location_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image1.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\image1.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\location_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fcb.jpg",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\fcb.jpg"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image4.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\image4.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_row_bg_hover.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\list_row_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_4.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\item_4.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image2.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_normal.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\history_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurants_normal.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\restaurants_normal.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\help_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dishes_top.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\dishes_top.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deals_pressed.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\deals_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account_pressed.png",
+        "source": "D:\\for feel hungry\\FeelHungry\\app\\src\\main\\res\\drawable\\account_pressed.png"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\for feel hungry\\source code\\FeelHungry\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image4.png",
+        "source": "D:\\for feel hungry\\source code\\FeelHungry\\app\\src\\main\\res\\drawable\\image4.png"
+    }
+]

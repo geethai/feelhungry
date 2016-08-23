@@ -1,0 +1,47 @@
+-injars 'D:\for feel hungry\source code\FeelHungry\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'D:\for feel hungry\source code\FeelHungry\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Karthi\AppData\Local\Android\sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'D:\for feel hungry\source code\FeelHungry\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.smartmobion.feelhungry.app.AppController {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.smartmobion.feelhungry.SpashActivity {
+    <init>();
+}
+
+-keep class com.smartmobion.feelhungry.BaseActivity {
+    <init>();
+}
+
+-keep class com.smartmobion.feelhungry.MainActivity {
+    <init>();
+}
+
+-keep class com.smartmobion.feelhungry.HomeActivity {
+    <init>();
+}
+
+-keep class com.smartmobion.feelhungry.Restuarants {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

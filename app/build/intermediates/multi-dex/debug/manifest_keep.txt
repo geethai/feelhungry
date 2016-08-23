@@ -1,0 +1,15 @@
+-keep class com.smartmobion.feelhungry.app.AppController {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.smartmobion.feelhungry.SpashActivity { <init>(); }
+-keep class com.smartmobion.feelhungry.BaseActivity { <init>(); }
+-keep class com.smartmobion.feelhungry.MainActivity { <init>(); }
+-keep class com.smartmobion.feelhungry.HomeActivity { <init>(); }
+-keep class com.smartmobion.feelhungry.Restuarants { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
